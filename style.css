@@ -108,10 +108,10 @@ body {
 .iconlist {
     padding-left: 45px;
     display: flex;
-    gap: 15px;
+    gap: 20px;
 }
 i.fa.fa-instagram {
-    font-size: 20px;
+    font-size: 25px;
     background: #e1306c;
     padding: 9px 10px;
     color: #FFF;
@@ -120,8 +120,8 @@ i.fa.fa-instagram {
 i.fa.fa-whatsapp {
     background: green;
     color: #ffff;
-    font-size: 20px;
-    padding: 8px 10px;
+    font-size: 25px;
+    padding: 9px 11px;
     border-radius: 50%;
 }
 a#prime {
